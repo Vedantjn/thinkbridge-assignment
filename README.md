@@ -7,17 +7,17 @@ Here are some screenshots of the application:
 
 ![Live]()
 
-![Home Page](./frontend/public/images/1.png)
+![Home Page](./public/images/1.png)
 
-![View Restaurant / Add Restaurants](./frontend/public/images/2.png)
+![View Restaurant / Add Restaurants](./public/images/2.png)
 
-![Add Restaurant form](./frontend/public/images/3.png)
+![Add Restaurant form](./public/images/3.png)
 
-![New Restaurant added](./frontend/public/images/4.png)
+![New Restaurant added](./public/images/4.png)
 
-![New Restaurant edited](./frontend/public/images/5.png)
+![New Restaurant edited](./public/images/5.png)
 
-![New Restaurant deleted](./frontend/public/images/6.png)
+![New Restaurant deleted](./public/images/6.png)
 
 
 ## Introduction
