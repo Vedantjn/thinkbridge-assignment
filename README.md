@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# FOODIEDELIGHT Restaurant Management
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React-based frontend application for managing restaurants and their menus.
 
-## Available Scripts
+Here are some screenshots of the application:
 
-In the project directory, you can run:
 
-### `npm start`
+![Live]()
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Home Page](./frontend/public/images/1.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![View Restaurant / Add Restaurants](./frontend/public/images/2.png)
 
-### `npm test`
+![Add Restaurant form](./frontend/public/images/3.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![New Restaurant added](./frontend/public/images/4.png)
 
-### `npm run build`
+![New Restaurant edited](./frontend/public/images/5.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![New Restaurant deleted](./frontend/public/images/6.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Introduction
 
-### `npm run eject`
+The "FOODIEDELIGHT" application is a food delivery platform that allows users to manage different restaurants and their menus. This project focuses on the frontend development of the restaurant management module, including functionalities to:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Add a new restaurant to the platform
+- Modify a restaurant's details
+- Delete a restaurant from the platform
+- List the restaurants on the platform
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The application utilizes React, Styled Components, and other related libraries to create a responsive and user-friendly interface.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Instructions
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Clone this repository.
+2. Ensure you have Node.js installed (version 14 or higher recommended).
+3. Run `npm install` to install dependencies.
+5. Run `npm start` to start the development server.
+6. Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
 
-## Learn More
+## Build Commands
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- `npm start`: Runs the app in development mode.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Features
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Restaurant CRUD Operations: Users can create, read, update, and delete restaurant information.
+- Responsive Design: The application is designed to be responsive and accessible on various devices.
+- Input Validation: Includes input validation to ensure data integrity.
+- Error Handling: Handles errors and provides appropriate feedback to the user.
+- Image Uploading: Users can upload images for each restaurant, which are displayed in a carousel.
