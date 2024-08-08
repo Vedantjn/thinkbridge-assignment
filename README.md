@@ -5,7 +5,7 @@ A React-based frontend application for managing restaurants and their menus.
 Here are some screenshots of the application:
 
 
-![Live]()
+![Live](https://thinkbridge-assignment.vercel.app/)
 
 ![Home Page](./public/images/1.png)
 
